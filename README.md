@@ -8,7 +8,6 @@
 </div>
 
 ##
-- 🔭 Hoje trabalho como operador de caixa em Farmacia ...
 - 🌱 Estudando Python
 - 📫 Contate-me no email: olavoribgodario@gmail.com
 - 😄 Pronouns: ele/dele
