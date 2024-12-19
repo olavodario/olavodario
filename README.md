@@ -27,7 +27,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
  ### Studying in this moment:
-![Html](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=html&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
