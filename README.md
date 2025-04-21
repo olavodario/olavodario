@@ -1,8 +1,4 @@
-# 👨🏾‍💻 Olavo Dario
-
-**`Desenvolvedor Backend`**
-
-My name is Olavo Ribeiro Gomes Dario, i have 19 years old and i'm from Black River (SP). I completed high school at SESI, where I discovered my passion for technology through robotics and won a gold medal in the "Brazilian Logical Reasoning Olympiad" - "Delta" Level - 2021. Currently, I am studying Technical Analysis and Systems Development at ETEC. 
+# Hey, I'm Olavo Dario!👋
 
    <p align="left">
       <a href="https://github.com/olavodario?tab=repositories">
@@ -16,43 +12,3 @@ My name is Olavo Ribeiro Gomes Dario, i have 19 years old and i'm from Black Riv
    </p>
 
 ---
-
-## ⚙️  Languages and Tools
-
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
