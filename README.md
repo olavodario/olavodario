@@ -1,4 +1,4 @@
-### Hey, I'm Olavo Dario!👋
+## Hey, I'm Olavo Dario!👋
 
    <p align="left">
       <a href="https://github.com/olavodario?tab=repositories">
