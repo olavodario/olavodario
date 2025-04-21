@@ -1,14 +1,15 @@
 ## Hey, I'm Olavo Dario!👋
 
-   <p align="left">
-      <a href="https://github.com/olavodario?tab=repositories">
-         <img alt="Repositorio" title="Se my Repository" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo&labelColor=C79600&color=%23E1AD0E"/></a> 
-      <a href="https://www.linkedin.com/in/olavo-ribeiro-gomes-dario-6578b92b3/">
-         <img alt="LinkedIn" title="See my LinkdIn" src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-teal?color=339bdf&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2789ca&/></a> 
-      <a href="https://github.com/olavodario?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/olavodario?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/olavodario?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/olavodario?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<div style="display: inline_block">
+   <img align="center" alt="Olavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Olavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+   <img align="center" alt="Olavo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+   <img align="center" alt="Olavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Olavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Olavo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+   <img align="center" alt="Olavo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">          
+</div>
 
----
+
+          
+          
