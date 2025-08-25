@@ -21,7 +21,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Olavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavodario&show_icons=true&theme=tokyonight)  
+<!--![Olavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavodario&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavodario&layout=compact&theme=tokyonight)  
 
 ---
