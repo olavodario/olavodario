@@ -1,11 +1,12 @@
-# 👨‍💻 Olavo Dario
+
+# 👨‍💻 Olavo Ribeiro
 
 <p align="center">
-Backend Developer in Progress ☕ | Java | APIs | Cloud
+Backend Developer in Progress | Java | APIs | Cloud
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 </p>
 
 ---
@@ -14,17 +15,11 @@ Backend Developer in Progress ☕ | Java | APIs | Cloud
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (Etec)** com foco em **desenvolvimento backend**.
 
-Gosto de entender como as coisas funcionam por trás das aplicações — **APIs, bancos de dados, arquitetura e infraestrutura**.
+Tenho grande interesse em entender **como sistemas funcionam internamente**, incluindo comunicação entre serviços, APIs, banco de dados e arquitetura de software.
 
-Atualmente estou focado em desenvolver uma base sólida em backend para entrar no mercado como **desenvolvedor Java**.
+Atualmente estou construindo uma base sólida em backend com **Java**, estudando desde os fundamentos até tecnologias usadas no mercado.
 
-**Atualmente estudando:**
-
-- ☕ Java
-- 🌐 HTTP & APIs REST
-- 🗄️ Banco de Dados
-- ☁️ Conceitos de Cloud
-- ⚙️ Arquitetura de Software
+🎯 **Objetivo:** me tornar um desenvolvedor backend profissional e contribuir em projetos que resolvam problemas reais.
 
 ---
 
@@ -53,3 +48,27 @@ Atualmente estou focado em desenvolver uma base sólida em backend para entrar n
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=olavodario&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn
+https://www.linkedin.com/in/olavo-dario
+
+📧 Email
+[olavoribgodario@gmail.com](mailto:olavoribgodario@gmail.com)
+
+---
+
+⭐ Sempre aberto para aprender, colaborar em projetos e discutir tecnologia.
+
+
