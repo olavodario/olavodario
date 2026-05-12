@@ -66,20 +66,6 @@ Gosto de criar projetos que resolvem problemas reais, principalmente unindo:
 
 ---
 
-# 📚 Atualmente estudando
-
-* Java + Spring Boot;
-* APIs REST;
-* arquitetura backend;
-* microsserviços;
-* Docker;
-* SQL;
-* estrutura de dados;
-* redes e HTTP;
-* cloud computing.
-
----
-
 # 🔥 Sequência de contribuições
 
 <div align="center">
