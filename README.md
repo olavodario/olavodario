@@ -2,77 +2,56 @@
 
 <div align="center">
 
-### Desenvolvedor Backend Java • Automações • HVAC Tech
+### Desenvolvedor Delphi • Especialista em Soluções ERP • Backend & Integrações
 
 <p>
-  Transformando problemas reais em software.
+  Desenvolvendo softwares robustos, otimizando processos de negócios e integrando ecossistemas de ERP.
 </p>
 
 <p>
   <a href="https://github.com/olavodario">
-    <img src="https://img.shields.io/github/followers/olavodario?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/olavodario?style=for-the-badge&logo=github&color=181717" />
   </a>
-  <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Spring_Boot-API-success?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/SQL-MariaDB-blue?style=for-the-badge&logo=mariadb" />
-  <img src="https://img.shields.io/badge/Linux-Developer-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Delphi-Object_Pascal-red?style=for-the-badge&logo=delphi" />
+  <img src="https://img.shields.io/badge/ERP-Soluções-blue?style=for-the-badge&logo=sap" />
+  <img src="https://img.shields.io/badge/SQL-Databases-orange?style=for-the-badge&logo=postgresql" />
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente atuo como orçamentista HVAC, além de auxiliar o setor de TI na empresa onde trabalho.
+Sou estudante de Engenharia de Software e atualmente atuo como orçamentista técnico no setor de HVAC. Utilizo minha sólida base em lógica, engenharia e processos de negócios para criar soluções de software de alto impacto.
 
-Meu foco principal hoje é:
+Como desenvolvedor, meu foco principal é o ecossistema **Delphi (Object Pascal)**, aplicando a linguagem no desenvolvimento de funcionalidades, módulos e integrações para sistemas **ERP**. Estou em constante evolução, combinando regras de negócios complexas com as melhores práticas de engenharia de software.
 
-* desenvolvimento backend com Java;
-* construção de APIs REST;
-* arquitetura de sistemas;
-* bancos de dados;
-* automações;
-* integração de IA em ferramentas reais;
-* engenharia de software aplicada ao mercado.
-
-Gosto de criar projetos que resolvem problemas reais, principalmente unindo:
-
-* tecnologia;
-* engenharia;
-* produtividade;
-* automação;
-* inteligência artificial.
+**Focos de atuação:**
+* ⚙️ **Desenvolvimento Delphi:** Criação e manutenção de módulos robustos para ERPs.
+* 🔄 **Integrações e APIs:** Conexão entre sistemas de gestão, automações e serviços externos.
+* 📊 **Banco de Dados:** Otimização de queries, procedures e manipulação de dados relacionais complexos.
+* 🚀 **Regras de Negócio & Produtividade:** Tradução de processos operacionais e financeiros complexos em código eficiente.
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Stack Tecnológica
 
-## Backend
+## Linguagem Principal & ERP
+![Delphi](https://img.shields.io/badge/Delphi_/_Object_Pascal-D11F26?style=for-the-badge&logo=delphi&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-005C9E?style=for-the-badge&logo=delphi&logoColor=white)
 
-![Java](https://skillicons.dev/icons?i=java,spring,nodejs)
+## Banco de Dados & Infraestrutura
+![Firebird](https://img.shields.io/badge/Firebird-B32424?style=for-the-badge&logo=firebird&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Frontend
+## Ferramentas & Ecossistema
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Frontend](https://skillicons.dev/icons?i=react,js,html,css)
-
-## Banco de Dados
-
-![Database](https://skillicons.dev/icons?i=mysql)
-
-## Ferramentas
-
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea)
-
----
-
-# 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=olavodario&theme=tokyonight&hide_border=true" />
-
-</div>
+*(Nota: Também possuo familiaridade com ecossistemas modernos de backend como Java/Spring Boot e Node.js para arquiteturas híbridas).*
 
 ---
 
@@ -94,13 +73,12 @@ Gosto de criar projetos que resolvem problemas reais, principalmente unindo:
 
 # ⚔️ Filosofia
 
-> “A disciplina pesa gramas.
-> O arrependimento pesa toneladas.”
+> *“A disciplina pesa gramas. O arrependimento pesa toneladas.”*
 
 ---
 
 <div align="center">
 
-### Obrigado por visitar meu perfil 🚀
+### Obrigado por visitar meu perfil! 🚀
 
 </div>
