@@ -1,7 +1,7 @@
 <h1 align="center">Olavo Dario</h1>
 
 <p align="center">
-  <b>Java Backend Developer em formação · ERP & Sistemas de Gestão · Integração com IA</b>
+  <b>Fullstack Developer em formação · Laravel & JavaScript · SaaS & Sistemas de Gestão</b>
 </p>
 
 <p align="center">
@@ -12,17 +12,28 @@
 
 ---
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olavodario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodario&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=olavodario&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## Sobre mim
 
-Sou desenvolvedor com foco em **backend Java** e sistemas de gestão empresarial. Tenho experiência prática com **ERP e processos de negócio** a partir da minha atuação como orçamentista técnico no setor de HVAC — o que me dá uma visão diferenciada: entendo tanto o lado técnico quanto o operacional dos sistemas que desenvolvo.
+Sou desenvolvedor em formação com foco em **Laravel e JavaScript fullstack**, construindo sistemas de gestão, APIs e produtos SaaS. Tenho experiência prática com **ERP e processos de negócio** a partir da minha atuação como orçamentista técnico no setor de HVAC — o que me dá uma visão diferenciada: entendo tanto o lado técnico quanto o operacional dos sistemas que desenvolvo.
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas (ETEC)**, com ingresso previsto em Engenharia de Software. Meu objetivo é construir uma carreira sólida em backend, com foco em sistemas distribuídos e fintechs.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas (ETEC)**, com ingresso previsto em Engenharia de Software. Gosto de transformar problemas reais em produtos — desde freelances locais até ideias de SaaS.
 
 ```
 Situação atual  → Estudante de ADS | Desenvolvedor em formação
-Stack principal → Java · Spring Boot · SQL
-Objetivo        → Estágio em backend Java | Sistemas ERP | Fintechs
-Diferencial     → Experiência real com regras de negócio e processos empresariais
+Stack principal → Laravel · PHP · JavaScript · TypeScript
+Objetivo        → Estágio fullstack | Freelance | Produtos SaaS
+Diferencial     → Experiência real com regras de negócio e domínio de ERP
 ```
 
 ---
@@ -30,11 +41,18 @@ Diferencial     → Experiência real com regras de negócio e processos empresa
 ## Stack Tecnológica
 
 ### Backend & Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -85,12 +103,14 @@ Projeto nascido da minha experiência diária no setor de climatização. Constr
 
 ---
 
-### 🖥️ [EduSPAManager](https://github.com/olavodario/EduSPAManager) — Gerenciamento de Alunos
+### 🖥️ [EduSPAManager](https://github.com/olavodario/EduSPAManager) — Sistema de Gerenciamento de Alunos
 > **PHP · JavaScript · MariaDB · HTML/CSS**
 
-CRUD completo para gerenciamento de alunos com frontend em SPA e backend em PHP integrado ao MariaDB.
+CRUD completo para gerenciamento de alunos com frontend em SPA e backend em PHP integrado ao MariaDB. Primeiro projeto fullstack com separação clara de responsabilidades entre front e back.
 
 ---
+
+
 
 ## Formação
 
@@ -103,16 +123,16 @@ CRUD completo para gerenciamento de alunos com frontend em SPA e backend em PHP 
 
 ## O que estou estudando agora
 
-- Java com Spring Boot — arquitetura REST e boas práticas de backend
-- Estruturas de dados e algoritmos aplicados a sistemas reais
+- Laravel 11 — arquitetura MVC, Eloquent ORM, APIs REST e autenticação com Sanctum
+- JavaScript moderno — ES6+, consumo de APIs, integração com backend Laravel
 - SQL avançado — modelagem relacional e otimização de queries
-- Princípios de sistemas distribuídos e arquitetura de software
+- Construção de produtos SaaS — do MVP ao produto cobrando clientes
 
 ---
 
 ## Contato
 
-Aberto a oportunidades de **estágio em desenvolvimento backend**, projetos freelance na região de Ribeirão Preto/SP e colaborações open source.
+Aberto a oportunidades de **estágio em desenvolvimento fullstack**, projetos freelance na região de Ribeirão Preto/SP, colaborações open source e parcerias em produtos SaaS.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olavo-dario">LinkedIn</a> ·
