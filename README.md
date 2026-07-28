@@ -19,8 +19,8 @@ Sou desenvolvedor em formação com foco em **Laravel e JavaScript fullstack**, 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ETEC)**, com ingresso previsto em Engenharia de Software. Gosto de transformar problemas reais em produtos — desde freelances locais até ideias de SaaS.
 
 ```
-Situação atual  → Estudante de ADS | Desenvolvedor em formação
-Stack principal → Laravel · PHP · JavaScript · TypeScript
+Situação atual  → Formado em ADS | Estudante de Engenharia de Softaware | Desenvolvedor em formação
+Stack principal → Laravel · PHP · JavaScript · TypeScript · Java
 Objetivo        → Estágio fullstack | Freelance | Produtos SaaS
 Diferencial     → Experiência real com regras de negócio e domínio de ERP
 ```
