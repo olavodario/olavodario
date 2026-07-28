@@ -12,17 +12,6 @@
 
 ---
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olavodario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodario&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=olavodario&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
-
----
-
 ## Sobre mim
 
 Sou desenvolvedor em formação com foco em **Laravel e JavaScript fullstack**, construindo sistemas de gestão, APIs e produtos SaaS. Tenho experiência prática com **ERP e processos de negócio** a partir da minha atuação como orçamentista técnico no setor de HVAC — o que me dá uma visão diferenciada: entendo tanto o lado técnico quanto o operacional dos sistemas que desenvolvo.
