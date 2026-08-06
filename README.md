@@ -105,8 +105,8 @@ CRUD completo para gerenciamento de alunos com frontend em SPA e backend em PHP 
 
 | Curso | Instituição | Status |
 |---|---|---|
-| Análise e Desenvolvimento de Sistemas | ETEC | Em andamento |
-| Engenharia de Software | — | Ingresso previsto |
+| Análise e Desenvolvimento de Sistemas | ETEC | Concluído |
+| Engenharia de Software | UNAERP | Em andamento |
 
 ---
 
