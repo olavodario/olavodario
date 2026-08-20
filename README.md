@@ -1,7 +1,7 @@
 <h1 align="center">Olavo Dario</h1>
 
 <p align="center">
-  <strong>Software Engineering Student · Backend Developer · Cybersecurity</strong>
+  <strong>Software Engineering Student · Full Stack Developer · Backend Focus</strong>
 </p>
 
 <p align="center">
@@ -18,27 +18,30 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software**, com foco em desenvolvimento backend e interesse crescente em **Cybersecurity e Secure Software Development**.
+Sou estudante de **Engenharia de Software** e desenvolvedor em formação, com foco em **desenvolvimento Full Stack e especial interesse em Backend**.
 
-Minha trajetória começou com o desenvolvimento de sistemas e aplicações para resolver problemas reais. Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software, APIs, bancos de dados, sistemas web, Linux, redes e segurança da informação**.
+Minha experiência com programação começou através do desenvolvimento de sistemas e aplicações para resolver problemas reais. Desde então, venho construindo uma base sólida em **Java, JavaScript, TypeScript, Node.js, React, bancos de dados e desenvolvimento de APIs**.
 
-Gosto de entender não apenas **como construir um sistema**, mas também **como ele funciona internamente, onde pode falhar e como pode ser protegido**.
+Tenho interesse em entender o software de ponta a ponta: desde a interface e experiência do usuário até a arquitetura do backend, persistência dos dados, integração entre serviços e infraestrutura.
 
-Meu objetivo é evoluir como engenheiro de software com uma forte base em backend e segurança, construindo sistemas cada vez mais robustos, escaláveis e seguros.
+Também estudo **Cybersecurity e Secure Software Development** como conhecimento complementar, buscando aplicar boas práticas de segurança desde o desenvolvimento e a arquitetura das aplicações.
+
+Meu objetivo é evoluir como **Software Engineer**, tornando-me capaz de projetar, desenvolver e manter aplicações completas, bem estruturadas, escaláveis e seguras.
 
 ---
 
 ## Atualmente
 
 * 🎓 Engenharia de Software
-* 🔐 Estudando Cybersecurity
+* 💻 Estudando e praticando desenvolvimento Full Stack
 * ⚙️ Aprofundando conhecimentos em Backend
-* ☕ Estudando Java e desenvolvimento de APIs
+* ☕ Estudando Java e Spring Boot
+* 🌐 Desenvolvendo aplicações Web com React e JavaScript/TypeScript
+* 🗄️ Aprofundando conhecimentos em bancos de dados relacionais
+* 🔌 Desenvolvendo e consumindo APIs REST
+* 🐳 Estudando Docker e fundamentos de infraestrutura
 * 🐧 Utilizando Linux e estudando fundamentos de sistemas
-* 🌐 Estudando redes, HTTP/HTTPS e arquitetura web
-* 🛡️ Aprendendo Secure Software Development
-* 🗄️ Aprofundando conhecimentos em bancos de dados
-* 🧠 Desenvolvendo fundamentos de arquitetura e engenharia de software
+* 🔐 Estudando Cybersecurity e Secure Software Development
 
 ---
 
@@ -47,74 +50,69 @@ Meu objetivo é evoluir como engenheiro de software com uma forte base em backen
 ```text
 Software Engineering
         │
-        ├── Backend Development
-        │      ├── APIs
-        │      ├── Arquitetura
-        │      ├── Bancos de Dados
-        │      └── Sistemas Distribuídos
+        ├── Full Stack Development
+        │      ├── Frontend
+        │      │      ├── React
+        │      │      └── JavaScript / TypeScript
+        │      │
+        │      └── Backend
+        │             ├── Java / Spring Boot
+        │             ├── Node.js
+        │             ├── APIs REST
+        │             └── Arquitetura de Software
         │
-        └── Cybersecurity
-               ├── Web Security
-               ├── Application Security
-               ├── Authentication & Authorization
+        ├── Databases
+        │      ├── PostgreSQL
+        │      ├── MySQL
+        │      └── MariaDB
+        │
+        └── Application Security
                ├── Secure Coding
-               └── Network & System Security
+               ├── Authentication & Authorization
+               └── Web Security
 ```
 
 ---
 
 ## Tecnologias
 
-### Backend & Linguagens
+### Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks & Web
+### Frontend & Web
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Security & Systems
+### Tools & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Estudando:** Web Security · OWASP · Authentication · Authorization · Networking · Linux · Secure Coding
+**Estudando:** Java · Spring Boot · TypeScript · React · Node.js · Docker · PostgreSQL · Software Architecture · Secure Coding
 
 ---
 
 ## Projetos em destaque
-
-### 🔐 AuthGate
-
-Sistema voltado para estudos de **autenticação, autorização e segurança de aplicações**.
-
-O projeto faz parte da minha transição para uma abordagem de desenvolvimento onde segurança não é adicionada no final, mas considerada desde a arquitetura e implementação do sistema.
-
-**Foco:** Authentication · Authorization · Application Security
-
----
-
-### 🛡️ CyberTest
-
-Projeto criado durante meus estudos de **Cybersecurity**, utilizado para experimentar conceitos e compreender na prática diferentes aspectos relacionados à segurança de aplicações.
-
-**Foco:** Cybersecurity · Security Testing · Web Security
-
----
 
 ### 🤖 AICommit
 
@@ -130,69 +128,89 @@ O projeto explora integração com APIs externas, processamento de informações
 
 Sistema desenvolvido a partir de um problema real encontrado no setor de climatização.
 
-O projeto representa uma das áreas que mais me interessa no desenvolvimento de software: **transformar processos reais em sistemas capazes de automatizar e organizar operações**.
+O projeto busca transformar um processo real em uma aplicação capaz de automatizar, organizar e facilitar operações do dia a dia.
 
 **Tecnologias:** TypeScript
 
 ---
 
-### 👤 CRUD-Usuarios
-
-Aplicação desenvolvida para estudar fundamentos de backend, orientação a objetos e gerenciamento de usuários.
-
-O projeto também serve como base para compreender conceitos posteriormente aplicáveis a sistemas de autenticação e autorização.
-
-**Tecnologias:** Java · POO
-
----
-
 ### 🏫 EduSPAManager
 
-Sistema de gerenciamento de alunos desenvolvido como projeto fullstack.
+Sistema de gerenciamento de alunos desenvolvido como projeto Full Stack.
 
-Possui frontend baseado em SPA, backend e persistência de dados, permitindo estudar a comunicação entre diferentes camadas de uma aplicação.
+A aplicação utiliza frontend, backend e persistência de dados, permitindo estudar na prática a comunicação entre diferentes camadas de uma aplicação.
 
 **Tecnologias:** PHP · JavaScript · MariaDB · HTML · CSS
 
 ---
 
+### 👤 CRUD-Usuarios
+
+Aplicação desenvolvida para praticar fundamentos de backend, orientação a objetos e gerenciamento de usuários.
+
+O projeto também serve como base para estudar conceitos de arquitetura e funcionalidades presentes em sistemas maiores.
+
+**Tecnologias:** Java · POO
+
+---
+
+### 🔐 AuthGate
+
+Projeto voltado ao estudo de autenticação, autorização e segurança de aplicações.
+
+A proposta é compreender como mecanismos de segurança podem ser incorporados à arquitetura e ao desenvolvimento de uma aplicação desde o início.
+
+**Foco:** Authentication · Authorization · Application Security
+
+---
+
 ## O que estou estudando
 
-### Software Engineering
+### Full Stack Development
 
-* Arquitetura de software
-* Clean Code
-* SOLID
-* Design Patterns
+* Desenvolvimento de aplicações Web
+* React
+* JavaScript e TypeScript
 * APIs REST
-* Modelagem de dados
-* Estruturas de dados e algoritmos
-* Testes de software
-* Git e GitHub
-* Desenvolvimento de sistemas escaláveis
+* Integração entre frontend e backend
+* Gerenciamento de estado
+* Consumo de APIs
+* Arquitetura de aplicações Web
 
-### Backend
+### Backend & Software Engineering
 
 * Java
 * Spring Boot
 * Node.js
-* PostgreSQL
-* Autenticação e autorização
 * APIs REST
-* Arquitetura de aplicações
+* Orientação a objetos
+* Clean Code
+* SOLID
+* Design Patterns
+* Arquitetura de software
+* Estruturas de dados e algoritmos
+* Testes de software
+* Git e GitHub
 
-### Cybersecurity
+### Databases & Infrastructure
 
-* Fundamentos de segurança da informação
+* PostgreSQL
+* MySQL
+* MariaDB
+* Modelagem de dados
+* SQL
+* Docker
 * Linux
-* Redes de computadores
-* HTTP/HTTPS
+* Fundamentos de infraestrutura
+
+### Security
+
+* Secure Coding
+* Authentication & Authorization
 * OWASP
 * Web Application Security
-* Authentication & Authorization
-* Secure Coding
-* Vulnerabilidades comuns em aplicações web
 * Segurança de APIs
+* Fundamentos de redes e HTTP/HTTPS
 
 ---
 
@@ -203,16 +221,16 @@ Programação
      ↓
 Desenvolvimento Web
      ↓
-Backend
+Full Stack Development
+     ↓
+Backend Development
      ↓
 Engenharia de Software
      ↓
-Secure Software Development
-     ↓
-Cybersecurity
+Software Development + Security
 ```
 
-Meu objetivo é unir essas áreas para desenvolver sistemas que sejam não apenas funcionais, mas também **bem projetados, confiáveis e seguros**.
+Meu objetivo é construir uma carreira sólida em **Engenharia de Software**, desenvolvendo aplicações completas e adquirindo cada vez mais profundidade em backend, arquitetura e segurança.
 
 ---
 
@@ -227,9 +245,9 @@ Meu objetivo é unir essas áreas para desenvolver sistemas que sejam não apena
 
 ## Objetivo profissional
 
-Busco oportunidades onde possa continuar evoluindo como **Software Engineer**, principalmente em desenvolvimento backend, engenharia de software e segurança de aplicações.
+Busco oportunidades como **Software Developer / Full Stack Developer**, com especial interesse em **Backend Development e Engenharia de Software**.
 
-Tenho interesse especial em ambientes onde possa aprender com profissionais experientes, trabalhar em sistemas reais e desenvolver uma visão cada vez mais profunda sobre **arquitetura, backend e segurança**.
+Tenho interesse em trabalhar com sistemas reais, aprender com profissionais experientes e participar de projetos onde possa evoluir tecnicamente, contribuir com soluções e desenvolver uma visão cada vez mais completa sobre o ciclo de vida de um software.
 
 ---
 
@@ -242,5 +260,5 @@ Tenho interesse especial em ambientes onde possa aprender com profissionais expe
 </p>
 
 <p align="center">
-  <i>Building software. Understanding systems. Learning security.</i>
+  <i>Building software. Solving problems. Evolving every day.</i>
 </p>
