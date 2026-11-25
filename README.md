@@ -78,7 +78,6 @@ Não programo apenas para o código funcionar: busco entender o problema de neg�
 ### 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=olavodario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" alt="Estatísticas do GitHub"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavodario&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
